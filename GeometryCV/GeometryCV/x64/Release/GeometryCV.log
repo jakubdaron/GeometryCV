@@ -1,0 +1,13 @@
+﻿  GeometryCV.cpp
+C:\GeometryCV\GeometryCV\GeometryCV.cpp(33,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\GeometryCV\GeometryCV\GeometryCV.cpp(126,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GeometryCV\GeometryCV\GeometryCV.cpp(145,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\GeometryCV\GeometryCV\GeometryCV.cpp(63): warning C4715: 'rozpoznajFigury': not all control paths return a value
+  All 338 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GeometryCV.vcxproj -> C:\GeometryCV\x64\Release\GeometryCV.exe
+  The system cannot execute the specified program.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: The command "C:\opencv\opencv\build\x64\vc15\bin\opencv_world460.dll C:\GeometryCV\x64\Release\ /c /y
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: :VCEnd" exited with code 9020.
