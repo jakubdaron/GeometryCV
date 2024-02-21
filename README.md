@@ -19,7 +19,7 @@ Upload your photos in .jpg format to folder "CV". Than add image path to your im
 **Program displays two photos:**
 
 Orginal photo with marked shapes, their dimensions and the reference grid.
-![Original_image](https://github.com/jakubdaron/GeometryCV/assets/102093406/1987bcc3-ae0a-4eab-afa2-36d9380c5349)
+![ori_img](https://github.com/jakubdaron/GeometryCV/assets/102093406/976e9eab-990c-4c25-af9f-2801f5c7bff3)
 
 Image after preprocessing that is used by the program to recognise figures and measure them properly.
 ![Img_after_preprocessing](https://github.com/jakubdaron/GeometryCV/assets/102093406/a52e0d09-82aa-4dc8-b9e0-548da090e8b7)
