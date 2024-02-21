@@ -1,6 +1,6 @@
 # GeometryCV
 The program recognizes basic geometric shapes from the image and provides their geometric dimensions. 
-##Notice##
+**Notice**
 Program recogizes shapes only written or printed on a grid paper!
 # What version of OpenCV does the program use?
 4.6.0
