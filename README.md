@@ -24,4 +24,4 @@ Orginal photo with marked shapes, their dimensions and the reference grid.
 Image after preprocessing that is used by the program to recognise figures and measure them properly.
 ![Img_after_preprocessing](https://github.com/jakubdaron/GeometryCV/assets/102093406/a52e0d09-82aa-4dc8-b9e0-548da090e8b7)
 
-To change current photo - press "Space", To quit the program - press "Esc". 
+To change current photos - press "Space", To quit the program - press "Esc". The photos change in sequence according to the defined image path vector.
